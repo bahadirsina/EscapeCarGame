@@ -37,16 +37,11 @@ speed of the cars will decrease and the player will be comfortable thanks to thi
 player will be able to get rid of the cars thanks to this feature, just before he hits the cars.
 
 <p float="left">
-  <img src = "StartScreen.PNG">
-  <img src = "GameScreen.PNG">
-  <img src = "GameScreen2.PNG">
-  <img src = "End Screen.PNG">
+  <img src = "Screen1.PNG">
+  <img src = "Screen2.PNG">
+  <img src = "Keys.PNG">
 </p>
 
-<img src = "StartScreen.PNG">
-<img src = "GameScreen.PNG">
-<img src = "GameScreen2.PNG">
-<img src = "End Screen.PNG">
 
 
 Contributors:
