@@ -1,6 +1,13 @@
 # EscapeCarGame
-
 ESCAPE CAR. Don't hit the oncoming vehicles and increase your score.
+
+Design and Technology
+
+We will use pygame, random, sys libraries in our project. Pygame is already a python game library.
+Thanks to this library, we will prepare our game in general. Sys library will be used to stop the application.
+Random library, we are considering randomly assigning the speeds of oncoming vehicles so that some are
+fast and some are slow.
+
 
 Future Works
 
