@@ -35,7 +35,8 @@ speed of the cars will decrease and the player will be comfortable thanks to thi
 
 • Thirdly, we are considering adding features such as cars going backwards when a key is pressed. The
 player will be able to get rid of the cars thanks to this feature, just before he hits the cars.
-![Project1](End Screen.PNG)
+
+<img src = "End Screen.PNG">
 
 
 Contributors:
