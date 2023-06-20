@@ -24,3 +24,14 @@ screen will show the score made, as well as the try again button.
 5- Scores will be recorded and the highest score will be on our screen. In short, the aim of the game is
 for the players to try to get the highest score.
 
+Added in addition
+
+• First of these, we will add music, exciting music will be played as you progress through the game
+without crashing into cars, but disappointing music will be played when the player crashes into the
+car.
+
+• Secondly, cars will slow down when a key is pressed. When the player starts to have difficulties, the
+speed of the cars will decrease and the player will be comfortable thanks to this feature.
+
+• Thirdly, we are considering adding features such as cars going backwards when a key is pressed. The
+player will be able to get rid of the cars thanks to this feature, just before he hits the cars.
