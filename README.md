@@ -1,10 +1,9 @@
 # EscapeCarGame
+<h2>ESCAPE CAR. Don't hit the oncoming vehicles and increase your score.</h2>
 
-ESCAPE CAR. Don't hit the oncoming vehicles and increase your score.
 
-<h2>Contributors:</h2>
-<h2>Bahadır Sina TERZİOĞLU - Mustafa DEVECİ</h2>
-  
+<h3>Contributors: Bahadır Sina TERZİOĞLU - Mustafa DEVECİ</h3>
+
 
 
 Design and Technology
