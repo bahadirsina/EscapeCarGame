@@ -1,5 +1,11 @@
 # EscapeCarGame
+
 ESCAPE CAR. Don't hit the oncoming vehicles and increase your score.
+
+<h2>Contributors:/h2>
+<h2>Bahadır Sina TERZİOĞLU - Mustafa DEVECİ</h2>
+  
+
 
 Design and Technology
 
@@ -44,5 +50,5 @@ player will be able to get rid of the cars thanks to this feature, just before h
 
 
 
-Contributors:
-Bahadır Sina TERZİOĞLU - Mustafa DEVECİ
+
+
